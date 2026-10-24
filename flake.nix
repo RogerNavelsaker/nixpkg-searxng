@@ -67,7 +67,6 @@
             "__SEARXNG_SETTINGS_PATH=/etc/searxng/settings.yml"
             "SEARXNG_SETTINGS_PATH=/etc/searxng/settings.yml"
             "PYTHONPATH=${searxngPythonPath}"
-            "GRANIAN_PROCESS_NAME=searxng"
             "GRANIAN_INTERFACE=wsgi"
             "GRANIAN_HOST=::"
             "GRANIAN_PORT=8080"
